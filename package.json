@@ -1,0 +1,23 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "moment": "^2.11.2",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Imooc",
+    "movie"
+  ],
+  "author": "Sothoth",
+  "license": "ISC"
+}
